@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Jerry-Cold
+- 👀 I’m interested in python and music!
+- 🌱 I’m currently learning more advanced python
+- 💞️ I’m looking to collaborate on Ubuntu Touch
+- 😄 Pronouns: He/Him
